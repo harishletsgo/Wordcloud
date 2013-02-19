@@ -1,5 +1,4 @@
 <?php
-
 $file = 'test.txt';
 $searchfor =$_GET['name'];
 
@@ -15,5 +14,4 @@ if(preg_match_all($pattern, $contents, $matches)){
 else{
    echo "No matches found";
 }
-
 ?>
