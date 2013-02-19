@@ -1,0 +1,10 @@
+This is a simple test for programming. 
+This is the first line.
+This is the second line.
+This is the third line.
+...
+This is the nth line. 
+The programs do the following.
+One by one they go from a very simple program to count lines to a complex program that created a word cloud and a linked word cloud. 
+These can be written in any language which can read and write files. 
+
