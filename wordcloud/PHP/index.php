@@ -1,5 +1,8 @@
 <?php
-
+//
+// 
+// @author Harish Prasanna http://www.facebook.com/harishperfect
+//
 $path="test.txt";
 $fdata=file_get_contents($path);
 $noisepath="noise.txt";

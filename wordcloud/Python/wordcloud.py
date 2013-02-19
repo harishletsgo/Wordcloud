@@ -1,6 +1,9 @@
 from collections import Counter, defaultdict
 import string
-
+#
+#
+# @author Harish Prasanna http://www.facebook.com/harishperfect
+#
 def writeCloud(taglist, ranges, outputfile):
   outputf = open(outputfile, 'w')
   outputf.write("<html><head><title> Word Cloud by N.D.P.Harish Prasanna </title>");

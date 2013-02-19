@@ -1,4 +1,8 @@
 <?php
+//
+// 
+// @author Harish Prasanna http://www.facebook.com/harishperfect
+//
 $file = 'test.txt';
 $searchfor =$_GET['name'];
 
